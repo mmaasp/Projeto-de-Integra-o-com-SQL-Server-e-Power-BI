@@ -155,5 +155,7 @@ Gráfico de barras para Vendas por Categoria de Produto.
 
 ![](https://github.com/mmaasp/Projeto-de-Integra-o-com-SQL-Server-e-Power-BI/blob/main/Git%20Hub/clientes%20git%20hub.png?raw=true)
 
+![](https://github.com/mmaasp/Projeto-de-Integra-o-com-SQL-Server-e-Power-BI/blob/main/Git%20Hub/geral%20git%20hub.png?raw=true)
+
 11. Considerações Finais
 O projeto de integração entre SQL Server e Power BI utilizando o banco de dados AdventureWorks 2022 visa fornecer uma solução completa para análise de dados de vendas e clientes. Através da definição de indicadores, criação de views, estabelecimento de relacionamentos e desenvolvimento de dashboards, é possível obter insights valiosos que podem auxiliar na tomada de decisões estratégicas para a organização.
